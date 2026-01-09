@@ -4,7 +4,7 @@ declare(strict_types=1);
 
 return [
     'navigation' => [
-        'label' => 'Dashboard Meetup',
+        'label' => 'Meetup-Dashboard',
         'group' => 'Meetups',
         'icon' => 'heroicon-o-chart-bar',
         'sort' => 10,

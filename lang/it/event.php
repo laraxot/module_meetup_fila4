@@ -4,9 +4,9 @@ declare(strict_types=1);
 
 return [
     'navigation' => [
-        'label' => 'event.navigation',
-        'group' => 'event.navigation',
-        'icon' => 'event.navigation',
-        'sort' => 30,
+        'label' => 'Eventi',
+        'group' => 'Meetups',
+        'icon' => 'heroicon-o-calendar',
+        'sort' => 11,
     ],
 ];
